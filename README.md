@@ -15,3 +15,4 @@
 
 [영남이공대학교](http://www.ync.ac.kr)
 
+![춤추는 고양이](./cat-dance.gif)
